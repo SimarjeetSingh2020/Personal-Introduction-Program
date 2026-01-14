@@ -22,22 +22,22 @@ The project helps beginners understand:
 
 # Code Structure
 
-1.personal_intro.py → Main Python program
+1. README.md → Project documentation
 
-2.README.md → Project documentation
+2. personal_intro.py → Main Python program
 
-3.requirements.txt → Dependencies (none required)
+3. requirements.txt → Dependencies (none required)
 
-4.screenshot.png → Program output screenshot
+4. screenshot.png → Program output screenshot
 
 --------
 
 # Technical Details
 
-1.Uses Python built-in input() function
+1. Uses Python built-in input() function
 
-2.Stores data in variables
+2. Stores data in variables
 
-3.Displays output using print()
+3. Displays output using print()
 
-4.Uses f-strings for formatting
+4. Uses f-strings for formatting
