@@ -35,6 +35,7 @@ The project helps beginners understand:
 # Technical Details
 
 1.Uses Python built-in input() function
+
 2.Stores data in variables
 
 3.Displays output using print()
