@@ -22,16 +22,21 @@ The project helps beginners understand:
 
 # Code Structure
 
-personal_intro.py → Main Python program
-README.md → Project documentation
-requirements.txt → Dependencies (none required)
-screenshot.png → Program output screenshot
+1.personal_intro.py → Main Python program
+
+2.README.md → Project documentation
+
+3.requirements.txt → Dependencies (none required)
+
+4.screenshot.png → Program output screenshot
 
 --------
 
 # Technical Details
 
-Uses Python built-in input() function
-Stores data in variables
-Displays output using print()
-Uses f-strings for formatting
+1.Uses Python built-in input() function
+2.Stores data in variables
+
+3.Displays output using print()
+
+4.Uses f-strings for formatting
